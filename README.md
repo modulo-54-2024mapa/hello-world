@@ -1,2 +1,1 @@
-# hello-world
-Este repositório é para praticar o fluxo do GitHub!
+Aluno de graduação Engenharia de Software!
